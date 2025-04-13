@@ -6,6 +6,7 @@ Procurando animes que não são mainstream e atribuindo a eles suas respectivas 
 ### Ao no 6-gou
 <div align="center">
     <img src="/img/Ao no 6-gou.png"/>
+    <br>
     <span>3/10</span>
 </div>
 Simplesmente anime sem sentido com final sem sentido, completamente fecal.
