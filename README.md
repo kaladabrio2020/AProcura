@@ -9,8 +9,11 @@ Procurando animes que não são mainstream e atribuindo a eles suas respectivas 
     <br>
     <span>3/10</span>
 </div>
-Simplesmente anime sem sentido com final sem sentido, completamente fecal.
-Genero: Scifi, aventura, ....
+
+**Genero:** Scifi, aventura, ....
+
+Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção.
+
 
 ### Lain
 ### The Big O
