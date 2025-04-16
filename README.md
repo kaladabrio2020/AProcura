@@ -17,7 +17,7 @@ Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal.
 ### Gundam Hataway
 
 <div align="center">
-    <img src="/img/Ao no 6-gou.png"/>
+    <img src="/img/Gundam Hataway.png"/>
     <br>
     <span>7/10</span>
 </div>
