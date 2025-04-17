@@ -44,7 +44,7 @@ Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o 
 ### Bio-hunter
 
 <div align="center" height="50px" width="50px">
-    <img src="/img/Bio Hunter Poster.jpg.jpg"/>
+    <img src="/img/Bio Hunter Poster.jpg"/>
     <br>
     <span>7/10</span>
 </div>
