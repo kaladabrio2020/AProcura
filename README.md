@@ -5,8 +5,8 @@ Procurando animes que não são mainstream e atribuindo a eles suas respectivas 
 ## Animes
 
 ### Ao no 6-gou
-<div align="center" height="50px" width="50px">
-    <img src="/img/Ao no 6-gou.png"/>
+<div align="center" >
+    <img src="/img/Ao no 6-gou.png" height="400px" width="250px"/>
     <br>
     <span>3/10</span>
 </div>
@@ -18,8 +18,8 @@ Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal.
 ---
 ### Gundam Hataway
 
-<div align="center" height="50px" width="50px">
-    <img src="/img/Gundam Hataway.png"/>
+<div align="center">
+    <img src="/img/Gundam Hataway.png"  height="400px" width="250px"/>
     <br>
     <span>7/10</span>
 </div>
@@ -30,8 +30,8 @@ Bom filme de Mecha.
 
 ---
 ### FLCL
-<div align="center" height="50px" width="50px">
-    <img src="/img/FLCL.jpg"/>
+<div align="center">
+    <img src="/img/FLCL.jpg"  height="400px" width="250px"/>
     <br>
     <span>8/10</span>
 </div>
