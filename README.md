@@ -5,7 +5,7 @@ Procurando animes que não são mainstream e atribuindo a eles suas respectivas 
 ## Animes
 
 ### Ao no 6-gou
-<div align="center">
+<div align="center" height="50px" width="50px">
     <img src="/img/Ao no 6-gou.png"/>
     <br>
     <span>3/10</span>
@@ -18,7 +18,7 @@ Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal.
 ---
 ### Gundam Hataway
 
-<div align="center">
+<div align="center" height="50px" width="50px">
     <img src="/img/Gundam Hataway.png"/>
     <br>
     <span>7/10</span>
