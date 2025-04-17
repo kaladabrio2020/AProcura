@@ -41,11 +41,23 @@ Bom filme de Mecha.
 Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o padrão de dub japenesa.
 
 ---
+### Bio-hunter
+
+<div align="center" height="50px" width="50px">
+    <img src="/img/Bio Hunter Poster.jpg.jpg"/>
+    <br>
+    <span>7/10</span>
+</div>
+
+**Genero:** Terror, Ação
+Bom sessão da tarde.
+
+
 
 ### Lain
 ### The Big O
 ### Memories
-### Bio-hunter
+
 ### Karas 
 ### Batman: Gotham Knight
 ### Ninja Scroll
