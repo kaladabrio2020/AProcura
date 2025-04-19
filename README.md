@@ -47,8 +47,8 @@ Colocando minha opnião dos animes que assisti.
 ---
 ### Bio-hunter
 
-<div align="center" height="50px" width="50px">
-    <img src="/img/Bio Hunter Poster.jpg"/>
+<div align="center" >
+    <img src="/img/Bio Hunter Poster.jpg"  height="400px" width="250px"/>
     <br>
     <span>7/10</span>
 </div>
@@ -62,7 +62,7 @@ Colocando minha opnião dos animes que assisti.
 ### Trava: Fist Planet 
 
 <div align="center">
-    <img src="/img/Trava- Fist Planet.jpg" height="50px" width="50px"/>
+    <img src="/img/Trava- Fist Planet.jpg"  height="400px" width="250px"/>
     <br>
     <span>3/10</span>
 </div>
@@ -77,7 +77,7 @@ Colocando minha opnião dos animes que assisti.
 ### Dragon’s Heaven
 
 <div align="center">
-    <img src="/img/Dragon’s Heaven.jpg" height="50px" width="50px"/>
+    <img src="/img/Dragon’s Heaven.jpg"  height="400px" width="250px"/>
     <br>
     <span>6/10</span>
 </div>
