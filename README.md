@@ -12,7 +12,7 @@ Colocando minha opnião dos animes que assisti.
 
 **Sinopse:**Em um futuro pós-apocalíptico, o mundo está parcialmente submerso após os ataques do cientista mutante Zorndyke, que criou híbridos entre humanos e animais marinhos. A tripulação do submarino Blue Submarine No. 6 é enviada para enfrentar essa ameaça e salvar o que resta da humanidade. Em meio às batalhas submarinas, o anime explora dilemas éticos sobre guerra, convivência e sobrevivência
 
-**Opnião:**Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção.
+**Opnião:**Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção. Saia de perto.
 
 ---
 ### Gundam Hataway
@@ -28,7 +28,7 @@ Colocando minha opnião dos animes que assisti.
 
 **Sinopse:** Anos após a guerra de Char, Hathaway Noa — filho de um herói da Federação — lidera secretamente o grupo rebelde Mafty, que luta contra a corrupção governamental. Enquanto enfrenta dilemas morais e políticos, Hathaway tenta equilibrar sua identidade como terrorista e sua herança familiar. Em meio a confrontos mecha de tirar o fôlego, o filme mergulha em temas como justiça, sacrifício e identidade.
 
-**Opnião:** Bom filme de Mecha.
+**Opnião:** Bom filme de Mecha. Precisa ter um certa noção da lore gundam.
 
 ---
 ### FLCL
@@ -42,7 +42,7 @@ Colocando minha opnião dos animes que assisti.
 
 **Sinopse:** A vida do jovem Naota muda drasticamente quando a misteriosa Haruko aparece pilotando uma Vespa e o acerta com um baixo na cabeça. A partir disso, criaturas robóticas começam a sair de sua testa, e ele se vê envolvido em uma guerra intergaláctica bizarra. No meio do caos, o anime explora temas de amadurecimento, confusão adolescente e identidade.
 
-**Opnião:**Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o padrão de dub japenesa.
+**Opnião:** Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o padrão de dub japenesa. Ademais, recomendo.
 
 ---
 ### Bio-hunter
@@ -57,7 +57,7 @@ Colocando minha opnião dos animes que assisti.
 
 **Sinopse:** Dois cientistas investigam um vírus que transforma humanos em monstros demoníacos. Um deles, Komada, é infectado, mas mantém parte de sua humanidade enquanto luta contra seus impulsos. Juntos, eles tentam conter a propagação do vírus e enfrentar criaturas mutantes.
 
-**Opnião:**Bom sessão da tarde.
+**Opnião:** Boa sessão da tarde. recomendo.
 
 ### Trava: Fist Planet 
 
@@ -69,9 +69,9 @@ Colocando minha opnião dos animes que assisti.
 
 **Gênero:** Mecha, aventura, sci-fi
 
-**Sinopse:**Trava e Shinkai são dois aventureiros espaciais que viajam de planeta em planeta em busca de desafios e dinheiro. Eles acabam participando de um torneio de artes marciais brutal no planeta Fist, onde a força é tudo. O anime mistura ação frenética, comédia nonsense e um estilo visual psicodélico cheio de cortes rápidos e energia crua.
+**Sinopse:** Trava e Shinkai são dois aventureiros espaciais que viajam de planeta em planeta em busca de desafios e dinheiro. Eles acabam participando de um torneio de artes marciais brutal no planeta Fist, onde a força é tudo. O anime mistura ação frenética, comédia nonsense e um estilo visual psicodélico cheio de cortes rápidos e energia crua.
 
-**Opnião:**Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes. Chato......
+**Opnião:** Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes. Chato......
 
 ---
 ### Dragon’s Heaven
@@ -87,7 +87,7 @@ Colocando minha opnião dos animes que assisti.
 **Sinopsee:** história se passa no ano 3195, depois de uma guerra entre um exército de robôs e os humanos. Acompanhamos aqui Shaian, um robô de combate senciente que perdeu seu piloto em batalha e, desde então, se mantém desligado.
 Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto, reaparece vivo em operações militares no **Império do Brasil** (sim, o Império do Brasil) — ele então reativa seu sistema e convence Ikuuru, uma geniosa garota que entende muito de mecânica, a se tornar seu novo piloto.
 
-**Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista.
+**Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista. 
 
 ---
 ### Tailanders
@@ -97,11 +97,11 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
     <span>10/10</span>
 </div>
 
-
-
 **Gênero:** Corrida
 
-**Sinopse:**Após um grave acidente em uma corrida, o piloto Tomoe Shiro ganha uma segunda chance ao receber um coração mecânico conectado ao seu carro. Agora, ele volta às pistas em um mundo onde corridas determinam o destino das pessoas — tanto pessoal quanto politicamente. A história explora rivalidades, redenção e paixão pela velocidade em um universo estilizado e acelerado.
+**Sinopse:** Após um grave acidente em uma corrida, o piloto Tomoe Shiro ganha uma segunda chance ao receber um coração mecânico conectado ao seu carro. Agora, ele volta às pistas em um mundo onde corridas determinam o destino das pessoas — tanto pessoal quanto politicamente. A história explora rivalidades, redenção e paixão pela velocidade em um universo estilizado e acelerado.
+
+**Opnião:** Muito bonita animação e historia massa.... recomendo
 
 ---
 ### Blue Gender
