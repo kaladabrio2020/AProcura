@@ -73,7 +73,7 @@ Colocando minha opnião dos animes que assisti.
 
 **Opnião:**Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes. Chato......
 
-
+---
 ### Dragon’s Heaven
 
 <div align="center">
@@ -89,26 +89,77 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 
 **Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista.
 
+---
+### Tailanders
+<div align="center">
+    <img src="/img/tailenders.jpg"  height="400px" width="250px"/>
+    <br>
+    <span>10/10</span>
+</div>
+
+
+
+**Gênero:** Corrida
+
+**Sinopse:**Após um grave acidente em uma corrida, o piloto Tomoe Shiro ganha uma segunda chance ao receber um coração mecânico conectado ao seu carro. Agora, ele volta às pistas em um mundo onde corridas determinam o destino das pessoas — tanto pessoal quanto politicamente. A história explora rivalidades, redenção e paixão pela velocidade em um universo estilizado e acelerado.
+
+---
 ### Blue Gender
+---
 ### Lain
+---
 ### The Big O
+
+---
 ### Memories
 
+---
 ### Karas 
+
+---
 ### Batman: Gotham Knight
+
+---
 ### Ninja Scroll
+
+---
 ### Highlander: The Search for Vengeance
+
+---
 ### Roujin Z
+
+---
 ### steamboy
+
+---
 ### Neo Tokyo
+
+---
 ### Metrópolis
-### Ghost in the Shell 
+
+---
+### Ghost in the Shell
+
+---
 ### Redline
+
+---
 ### the record of lodoss war
+
+---
 ### Pluto
+
+---
 ### Birdy the Mighty
+
+---
 ### The Twelve Kingdoms
+
+---
 ### Dragon's Heaven
 
+---
 ### Vampire Hunter: The Animated Series (DarkStalkers)
+
+---
 ### Blade Runner Black Out 2022
