@@ -1,8 +1,5 @@
-# AProcura
-Procurando animes que não são mainstream e atribuindo a eles suas respectivas notas.
-43
-
-## Animes
+# Animes Reviews
+Colocando minha opnião dos animes que assisti.
 
 ### Ao no 6-gou
 <div align="center" >
@@ -11,9 +8,11 @@ Procurando animes que não são mainstream e atribuindo a eles suas respectivas 
     <span>3/10</span>
 </div>
 
-**Genero:** Scifi, aventura, ....
+**Gênero:** Scifi, aventura, ....
 
-Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção.
+**Sinopse:**Em um futuro pós-apocalíptico, o mundo está parcialmente submerso após os ataques do cientista mutante Zorndyke, que criou híbridos entre humanos e animais marinhos. A tripulação do submarino Blue Submarine No. 6 é enviada para enfrentar essa ameaça e salvar o que resta da humanidade. Em meio às batalhas submarinas, o anime explora dilemas éticos sobre guerra, convivência e sobrevivência
+
+**Opnião:**Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção.
 
 ---
 ### Gundam Hataway
@@ -24,9 +23,12 @@ Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal.
     <span>7/10</span>
 </div>
 
-**Genero:** Scifi, aventura, mecha
 
-Bom filme de Mecha.
+**Gênero:** Scifi, aventura, mecha
+
+**Sinopse:** Anos após a guerra de Char, Hathaway Noa — filho de um herói da Federação — lidera secretamente o grupo rebelde Mafty, que luta contra a corrupção governamental. Enquanto enfrenta dilemas morais e políticos, Hathaway tenta equilibrar sua identidade como terrorista e sua herança familiar. Em meio a confrontos mecha de tirar o fôlego, o filme mergulha em temas como justiça, sacrifício e identidade.
+
+**Opnião:** Bom filme de Mecha.
 
 ---
 ### FLCL
@@ -36,9 +38,11 @@ Bom filme de Mecha.
     <span>8/10</span>
 </div>
 
-**Genero:** Scifi, aventura, mecha, drama, comédia
+**Gênero:** Scifi, aventura, mecha, drama, comédia
 
-Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o padrão de dub japenesa.
+**Sinopse:** A vida do jovem Naota muda drasticamente quando a misteriosa Haruko aparece pilotando uma Vespa e o acerta com um baixo na cabeça. A partir disso, criaturas robóticas começam a sair de sua testa, e ele se vê envolvido em uma guerra intergaláctica bizarra. No meio do caos, o anime explora temas de amadurecimento, confusão adolescente e identidade.
+
+**Opnião:**Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o padrão de dub japenesa.
 
 ---
 ### Bio-hunter
@@ -49,8 +53,11 @@ Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o 
     <span>7/10</span>
 </div>
 
-**Genero:** Terror, Ação
-Bom sessão da tarde.
+**Gênero:** Terror, Ação
+
+**Sinopse:** Dois cientistas investigam um vírus que transforma humanos em monstros demoníacos. Um deles, Komada, é infectado, mas mantém parte de sua humanidade enquanto luta contra seus impulsos. Juntos, eles tentam conter a propagação do vírus e enfrentar criaturas mutantes.
+
+**Opnião:**Bom sessão da tarde.
 
 ### Trava: Fist Planet 
 
@@ -60,7 +67,11 @@ Bom sessão da tarde.
     <span>3/10</span>
 </div>
 
-Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes
+**Gênero:** Mecha, aventura, sci-fi
+
+**Sinopse:**Trava e Shinkai são dois aventureiros espaciais que viajam de planeta em planeta em busca de desafios e dinheiro. Eles acabam participando de um torneio de artes marciais brutal no planeta Fist, onde a força é tudo. O anime mistura ação frenética, comédia nonsense e um estilo visual psicodélico cheio de cortes rápidos e energia crua.
+
+**Opnião:**Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes. Chato......
 
 
 ### Dragon’s Heaven
@@ -71,11 +82,12 @@ Esse anime serviu de inspiração para a criação do anime Redline contudo é f
     <span>6/10</span>
 </div>
 
-**Genero:** Mecha, Ficção, Ação
+**Gênero:** Mecha, Ficção, Ação
 
-Dragon’s Heaven, um OVA de 1988 dirigido por Makoto Kobayash.
-A história se passa no ano 3195, depois de uma guerra entre um exército de robôs e os humanos. Acompanhamos aqui Shaian, um robô de combate senciente que perdeu seu piloto em batalha e, desde então, se mantém desligado.
+**Sinopsee:** história se passa no ano 3195, depois de uma guerra entre um exército de robôs e os humanos. Acompanhamos aqui Shaian, um robô de combate senciente que perdeu seu piloto em batalha e, desde então, se mantém desligado.
 Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto, reaparece vivo em operações militares no **Império do Brasil** (sim, o Império do Brasil) — ele então reativa seu sistema e convence Ikuuru, uma geniosa garota que entende muito de mecânica, a se tornar seu novo piloto.
+
+**Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista.
 
 ### Blue Gender
 ### Lain
