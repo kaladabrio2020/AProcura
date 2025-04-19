@@ -61,7 +61,7 @@ Colocando minha opnião dos animes que assisti.
 
 ### Trava: Fist Planet 
 
-<div align="center" height="50px" width="50px">
+<div align="center" height="20%" width="20%">
     <img src="/img/Trava- Fist Planet.jpg"/>
     <br>
     <span>3/10</span>
