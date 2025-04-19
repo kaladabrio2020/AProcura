@@ -61,8 +61,8 @@ Colocando minha opnião dos animes que assisti.
 
 ### Trava: Fist Planet 
 
-<div align="center" height="20%" width="20%">
-    <img src="/img/Trava- Fist Planet.jpg"/>
+<div align="center">
+    <img src="/img/Trava- Fist Planet.jpg" height="50px" width="50px"/>
     <br>
     <span>3/10</span>
 </div>
@@ -76,8 +76,8 @@ Colocando minha opnião dos animes que assisti.
 
 ### Dragon’s Heaven
 
-<div align="center" height="50px" width="50px">
-    <img src="/img/Dragon’s Heaven.jpg"/>
+<div align="center">
+    <img src="/img/Dragon’s Heaven.jpg" height="50px" width="50px"/>
     <br>
     <span>6/10</span>
 </div>
