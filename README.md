@@ -94,17 +94,36 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="/img/tailenders.jpg"  height="400px" width="250px"/>
     <br>
-    <span>10/10</span>
+    <span>8.5/10</span>
 </div>
 
 **Gênero:** Corrida
 
 **Sinopse:** Após um grave acidente em uma corrida, o piloto Tomoe Shiro ganha uma segunda chance ao receber um coração mecânico conectado ao seu carro. Agora, ele volta às pistas em um mundo onde corridas determinam o destino das pessoas — tanto pessoal quanto politicamente. A história explora rivalidades, redenção e paixão pela velocidade em um universo estilizado e acelerado.
 
-**Opnião:** Muito bonita animação e historia massa.... recomendo
+**Opnião:** Muito bonita animação e historia massa. Pena que não virou um série.
+
+---
+### Redline
+<div align="center">
+    <img src="/img/redline.jpg"  height="400px" width="250px"/>
+    <br>
+    <span>9/10</span>
+</div>
+
+**Gênero:** Corrida
+
+**Sinopse:** Num futuro onde corridas ilegais entre galáxias são o evento mais insano do universo, o destemido piloto JP se prepara para competir na perigosa e lendária corrida Redline. A competição será realizada em Roboworld, um planeta militarizado que proibiu a corrida e fará de tudo para impedi-la. Em meio a explosões, traições e alta velocidade, JP tenta vencer a corrida e conquistar o coração da misteriosa piloto Sonoshee.
+
+**Opnião:** Excelente filme, animação linda e fluida(assista em 4k). É o resultado final da amalgama de tailanders e trava. 
+
+
 
 ---
 ### Blue Gender
+
+
+
 ---
 ### Lain
 ---
@@ -141,7 +160,6 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ### Ghost in the Shell
 
 ---
-### Redline
 
 ---
 ### the record of lodoss war
