@@ -92,7 +92,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ### Tailanders
 <div align="center">
-    <img src="/img/tailenders.jpg"  height="400px" width="250px"/>
+    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/tailenders.jpg"  height="400px" width="250px"/>
     <br>
     <span>8.5/10</span>
 </div>
@@ -106,7 +106,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ### Redline
 <div align="center">
-    <img src="/img/redline.jpg"  height="400px" width="250px"/>
+    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/redline.jpg"  height="400px" width="250px"/>
     <br>
     <span>9/10</span>
 </div>
