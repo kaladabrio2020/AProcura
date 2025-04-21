@@ -1,7 +1,7 @@
 # Animes Reviews
-Colocando minha opnião dos animes que assisti.
+Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a real.
 
-### Ao no 6-gou
+## Ao no 6-gou
 <div align="center" >
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
     <br>
@@ -15,7 +15,7 @@ Colocando minha opnião dos animes que assisti.
 **Opnião:** Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção. Saia de perto.
 
 ---
-### Gundam Hataway
+## Gundam Hataway
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="guh"></img>
@@ -31,7 +31,7 @@ Colocando minha opnião dos animes que assisti.
 **Opnião:** Bom filme de Mecha. Precisa ter um certa noção da lore gundam.
 
 ---
-### FLCL
+## FLCL
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
     <br>
@@ -45,7 +45,7 @@ Colocando minha opnião dos animes que assisti.
 **Opnião:** Bom anime, só peca na questão da legenda os dialogos são mais rápidos que o padrão de dub japenesa. Ademais, recomendo.
 
 ---
-### Bio-hunter
+## Bio-hunter
 
 <div align="center" >
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="bh"></img>
@@ -59,7 +59,7 @@ Colocando minha opnião dos animes que assisti.
 
 **Opnião:** Boa sessão da tarde. recomendo.
 
-### Trava: Fist Planet 
+## Trava: Fist Planet 
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava"></img>
@@ -74,7 +74,7 @@ Colocando minha opnião dos animes que assisti.
 **Opnião:** Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes. Chato......
 
 ---
-### Dragon’s Heaven
+## Dragon’s Heaven
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon"/></img>
@@ -90,7 +90,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 **Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista. 
 
 ---
-### Tailanders
+## Tailanders
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
     <br>
@@ -104,7 +104,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 **Opnião:** Muito bonita animação e historia massa. Pena que não virou um série.
 
 ---
-### Redline
+## Redline
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
     <br>
@@ -120,64 +120,64 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 
 
 ---
-### Blue Gender
+## Blue Gender
 
 
 
 ---
-### Lain
+## Lain
 ---
-### The Big O
+## The Big O
 
 ---
-### Memories
+## Memories
 
 ---
-### Karas 
+## Karas 
 
 ---
-### Batman: Gotham Knight
+## Batman: Gotham Knight
 
 ---
-### Ninja Scroll
+## Ninja Scroll
 
 ---
-### Highlander: The Search for Vengeance
+## Highlander: The Search for Vengeance
 
 ---
-### Roujin Z
+## Roujin Z
 
 ---
-### steamboy
+## steamboy
 
 ---
-### Neo Tokyo
+## Neo Tokyo
 
 ---
-### Metrópolis
+## Metrópolis
 
 ---
-### Ghost in the Shell
+## Ghost in the Shell
 
 ---
 
 ---
-### the record of lodoss war
+## the record of lodoss war
 
 ---
-### Pluto
+## Pluto
 
 ---
-### Birdy the Mighty
+## Birdy the Mighty
 
 ---
-### The Twelve Kingdoms
+## The Twelve Kingdoms
 
 ---
-### Dragon's Heaven
+## Dragon's Heaven
 
 ---
-### Vampire Hunter: The Animated Series (DarkStalkers)
+## Vampire Hunter: The Animated Series (DarkStalkers)
 
 ---
-### Blade Runner Black Out 2022
+## Blade Runner Black Out 2022
