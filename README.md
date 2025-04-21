@@ -3,7 +3,7 @@ Colocando minha opnião dos animes que assisti.
 
 ### Ao no 6-gou
 <div align="center" >
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
     <br>
     <span>3/10</span>
 </div>
@@ -18,7 +18,7 @@ Colocando minha opnião dos animes que assisti.
 ### Gundam Hataway
 
 <div align="center">
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="guh"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="guh"></img>
     <br>
     <span>7/10</span>
 </div>
@@ -33,7 +33,7 @@ Colocando minha opnião dos animes que assisti.
 ---
 ### FLCL
 <div align="center">
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
     <br>
     <span>8/10</span>
 </div>
@@ -48,7 +48,7 @@ Colocando minha opnião dos animes que assisti.
 ### Bio-hunter
 
 <div align="center" >
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="bh"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="bh"></img>
     <br>
     <span>7/10</span>
 </div>
@@ -62,7 +62,7 @@ Colocando minha opnião dos animes que assisti.
 ### Trava: Fist Planet 
 
 <div align="center">
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava"></img>
     <br>
     <span>3/10</span>
 </div>
@@ -77,7 +77,7 @@ Colocando minha opnião dos animes que assisti.
 ### Dragon’s Heaven
 
 <div align="center">
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon"/></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon"/></img>
     <br>
     <span>6/10</span>
 </div>
@@ -92,7 +92,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ### Tailanders
 <div align="center">
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
     <br>
     <span>8.5/10</span>
 </div>
@@ -106,7 +106,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ### Redline
 <div align="center">
-    <img src="https://github.com/kaladabrio2020/AProcura/blob/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
     <br>
     <span>9/10</span>
 </div>
