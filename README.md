@@ -117,6 +117,21 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 
 **Opnião:** Excelente filme, animação linda e fluida(assista em 4k). É o resultado final da amalgama de tailanders e trava. 
 
+---
+## Ghost in the Shell
+<div align="center">
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/ghostInTheShell.webp"  height="400px" width="250px" alt="redline"></img>
+    <br>
+    <span>7/10</span>
+</div>
+
+**Gênero:** Ficção Cientifica
+
+**Sinopse:** Em um futuro hipertecnológico, a Major Motoko Kusanagi, uma agente cibernética da Seção 9, investiga um misterioso hacker conhecido como "Puppet Master". À medida que a investigação avança, ela começa a questionar a própria natureza de sua identidade, consciência e alma — seu “ghost”. O filme mergulha em temas profundos sobre o que significa ser humano em um mundo dominado por máquinas e redes digitais.
+
+
+**Opnião:** Desenho muito bonito. Sessão da tarde.
+
 
 
 ---
@@ -156,8 +171,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Metrópolis
 
----
-## Ghost in the Shell
+
 
 ---
 
