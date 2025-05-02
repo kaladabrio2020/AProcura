@@ -5,7 +5,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center" >
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>3/10</span>
+    <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
 
 **Gênero:** Scifi, aventura, ....
@@ -20,7 +20,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="gundam hataways"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>7/10</span>
+    <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
 
 
@@ -35,7 +35,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>8/10</span>
+    <span style='font-size:14pt;font-weight:bold'>8/10</span>
 </div>
 
 **Gênero:** Scifi, aventura, mecha, drama, comédia
@@ -50,7 +50,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center" >
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="biohunter"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>7/10</span>
+    <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
 
 **Gênero:** Terror, Ação
@@ -64,7 +64,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava-fp"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>3/10</span>
+    <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
 
 **Gênero:** Mecha, aventura, sci-fi
@@ -79,7 +79,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>6/10</span>
+    <span style='font-size:14pt;font-weight:bold'>6/10</span>
 </div>
 
 **Gênero:** Mecha, Ficção, Ação
@@ -94,7 +94,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>8.5/10</span>
+    <span style='font-size:14pt;font-weight:bold'>8.5/10</span>
 </div>
 
 **Gênero:** Corrida
@@ -108,7 +108,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>9/10</span>
+    <span style='font-size:14pt;font-weight:bold'>9/10</span>
 </div>
 
 **Gênero:** Corrida
@@ -122,7 +122,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/ghostInTheShell.webp"  height="400px" width="250px" alt="ghost1"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>7/10</span>
+    <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
 
 **Gênero:** Ficção Cientifica
@@ -138,7 +138,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Steamboy.jpg"  height="400px" width="250px" alt="ghost1"></img>
     <br>
-    <span style='font-size:12pt;font-weight:bold'>4/10</span>
+    <span style='font-size:14pt;font-weight:bold'>4/10</span>
 </div>
 
 **Gênero:** Ficção Cientifica(steampunk)
