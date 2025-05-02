@@ -5,7 +5,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center" >
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
     <br>
-    <span>3/10</span>
+    <span style='font-size:12pt;font-weight:bold'>3/10</span>
 </div>
 
 **Gênero:** Scifi, aventura, ....
@@ -18,9 +18,9 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Gundam Hataway
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="guh"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="gundam hataways"></img>
     <br>
-    <span>7/10</span>
+    <span style='font-size:12pt;font-weight:bold'>7/10</span>
 </div>
 
 
@@ -35,7 +35,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
     <br>
-    <span>8/10</span>
+    <span style='font-size:12pt;font-weight:bold'>8/10</span>
 </div>
 
 **Gênero:** Scifi, aventura, mecha, drama, comédia
@@ -48,9 +48,9 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Bio-hunter
 
 <div align="center" >
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="bh"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="biohunter"></img>
     <br>
-    <span>7/10</span>
+    <span style='font-size:12pt;font-weight:bold'>7/10</span>
 </div>
 
 **Gênero:** Terror, Ação
@@ -62,9 +62,9 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Trava: Fist Planet 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava-fp"></img>
     <br>
-    <span>3/10</span>
+    <span style='font-size:12pt;font-weight:bold'>3/10</span>
 </div>
 
 **Gênero:** Mecha, aventura, sci-fi
@@ -77,9 +77,9 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Dragon’s Heaven
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon"/></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
     <br>
-    <span>6/10</span>
+    <span style='font-size:12pt;font-weight:bold'>6/10</span>
 </div>
 
 **Gênero:** Mecha, Ficção, Ação
@@ -94,7 +94,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
     <br>
-    <span>8.5/10</span>
+    <span style='font-size:12pt;font-weight:bold'>8.5/10</span>
 </div>
 
 **Gênero:** Corrida
@@ -108,7 +108,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
     <br>
-    <span>9/10</span>
+    <span style='font-size:12pt;font-weight:bold'>9/10</span>
 </div>
 
 **Gênero:** Corrida
@@ -120,9 +120,9 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Ghost in the Shell
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/ghostInTheShell.webp"  height="400px" width="250px" alt="redline"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/ghostInTheShell.webp"  height="400px" width="250px" alt="ghost1"></img>
     <br>
-    <span>7/10</span>
+    <span style='font-size:12pt;font-weight:bold'>7/10</span>
 </div>
 
 **Gênero:** Ficção Cientifica
@@ -131,6 +131,28 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 
 
 **Opnião:** Desenho muito bonito. Sessão da tarde.
+
+---
+## Steamboy
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Steamboy.jpg"  height="400px" width="250px" alt="ghost1"></img>
+    <br>
+    <span style='font-size:12pt;font-weight:bold'>4/10</span>
+</div>
+
+**Gênero:** Ficção Cientifica(steampunk)
+
+**Sinopse:** Na Inglaterra vitoriana, o jovem inventor Ray Steam recebe de seu avô um misterioso dispositivo chamado "Steam Ball", que contém uma poderosa fonte de energia. Logo, ele se vê no centro de uma disputa entre cientistas, corporações e militares que querem usar a tecnologia para fins próprios. Entre dilemas morais e invenções fantásticas, Ray precisa decidir como usar o poder da ciência: para a guerra ou para o progresso.
+
+**Opnião:** Deveria ter virado uma série ao ínves de um filme, pois é muito "rushado" e muitas coisa são apresentadas não dando tempo de um certo desenvolvimento. Além disso, são mais de duas horas de filme.
+
+Você não se importa com ninguém, o prota não tem carisma. O Universo steampunk é interessante , animação é linda. 
+
+
+
+
+---
 
 
 
