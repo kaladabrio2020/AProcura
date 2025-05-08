@@ -3,7 +3,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 ## Ao no 6-gou
 <div align="center" >
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
@@ -18,7 +18,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Gundam Hataway
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="gundam hataways"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="gundam hataways"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
@@ -33,7 +33,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ---
 ## FLCL
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/FLCL.jpg"  height="400px" width="250px" alt="flcl"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8/10</span>
 </div>
@@ -48,7 +48,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Bio-hunter
 
 <div align="center" >
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="biohunter"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Bio%20Hunter%20Poster.jpg"  height="400px" width="250px" alt="biohunter"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
@@ -62,7 +62,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Trava: Fist Planet 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava-fp"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Trava-%20Fist%20Planet.jpg"  height="400px" width="250px" alt="trava-fp"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
@@ -77,7 +77,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Dragon’s Heaven
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Dragon%E2%80%99s%20Heaven.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>6/10</span>
 </div>
@@ -92,7 +92,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Tailanders
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/tailenders.jpg"  height="400px" width="250px" alt="tailenders"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8.5/10</span>
 </div>
@@ -106,7 +106,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Redline
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/redline.jpg"  height="400px" width="250px" alt="redline"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>9/10</span>
 </div>
@@ -120,7 +120,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Ghost in the Shell
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/ghostInTheShell.webp"  height="400px" width="250px" alt="ghost1"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/ghostInTheShell.webp"  height="400px" width="250px" alt="ghost1"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
@@ -136,7 +136,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ## Steamboy
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/main/img/Steamboy.jpg"  height="400px" width="250px" alt="ghost1"></img>
+    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Steamboy.jpg"  height="400px" width="250px" alt="ghost1"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>4/10</span>
 </div>
