@@ -2,17 +2,27 @@
 Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a real.
 
 ## Ao no 6-gou
+
+<div>
 <div align="center" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnqKxR8NzwfEIJ7aSAVfZwUxTl3Xsw_sU_Q&s" height="400px" width="250px" alt="ao6" ></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
 
+
+<div class='GSO' name='ao6'>
+    <span>
+
 **Gênero:** Scifi, aventura, ....
 
 **Sinopse:** Em um futuro pós-apocalíptico, o mundo está parcialmente submerso após os ataques do cientista mutante Zorndyke, que criou híbridos entre humanos e animais marinhos. A tripulação do submarino Blue Submarine No. 6 é enviada para enfrentar essa ameaça e salvar o que resta da humanidade. Em meio às batalhas submarinas, o anime explora dilemas éticos sobre guerra, convivência e sobrevivência
 
 **Opnião:** Simplesmente, um anime sem sentido e com final sem sentido, completamente fecal. Animação 3d estilo ps2 no inicio de geração. Musica de batalha estilo Jazz, sem emoção. Saia de perto.
+    </span>
+</div>
+</div>
+
 
 ---
 ## Gundam Hataway
@@ -76,24 +86,21 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 ---
 <div>
-    <h2> Dragon’s Heaven </h2>
+<h2> Dragon’s Heaven </h2>
 
-    <div align="center">
-        <img src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
-        <br>
-        <span style='font-size:14pt;font-weight:bold'>6/10</span>
-    </div>
-    <span>
+<div align="center">
+    <img src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>6/10</span>
+</div>
+
 **Gênero:** Mecha, Ficção, Ação
 
 **Sinopsee:** história se passa no ano 3195, depois de uma guerra entre um exército de robôs e os humanos. Acompanhamos aqui Shaian, um robô de combate senciente que perdeu seu piloto em batalha e, desde então, se mantém desligado.
-    Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto, reaparece vivo em operações militares **Império do Brasil** (sim, o Império do Brasil) — ele então reativa seu sistema e convence Ikuuru, uma geniosa garota que entende muito de mecânica, a se tornar seu novo piloto.
+Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto, reaparece vivo em operações militares no **Império do Brasil** (sim, o Império do Brasil) — ele então reativa seu sistema e convence Ikuuru, uma geniosa garota que entende muito de mecânica, a se tornar seu novo piloto.
 
 **Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista. 
-
-    </span>
 </div>
-
 ---
 ## Tailanders
 <div align="center">
