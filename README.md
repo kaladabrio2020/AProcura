@@ -61,7 +61,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Bio-hunter
 
 <div align="center" >
-    <img src="https://cdn-eu.anidb.net/images/main/292416.jpg"  height="400px" width="250px" alt="biohunter"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Biohunt.jpg"  height="400px" width="250px" alt="biohunter"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
