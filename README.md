@@ -195,6 +195,23 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 
 ---
+## Metrópolis
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BMTIxNzc3NjQzNF5BMl5BanBnXkFtZTcwNTEwODgyMQ@@._V1_.jpg"  height="400px" width="250px" alt="metropolis"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>5/10</span>
+</div>
+
+<span name='metropolis'>
+
+**Gênero:** Ficção Cientifica
+
+**Sinopse:** Em uma cidade futurista onde humanos e robôs convivem em tensão, um investigador e seu sobrinho Kenichi descobrem uma conspiração envolvendo a criação de uma robô humanoide chamada Tima. Projetada para controlar uma superarma e dominar a cidade, Tima desenvolve consciência e questiona seu próprio lugar no mundo. O filme explora temas como desigualdade social, identidade, e os limites entre homem e máquina em meio a uma revolução iminente.
+
+**Opnião:** Fraco. Final com Cliffhanger.
+
+</span>
 
 
 
@@ -227,13 +244,10 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Roujin Z
 
 ---
-## steamboy
-
----
 ## Neo Tokyo
 
 ---
-## Metrópolis
+## 
 
 
 
