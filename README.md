@@ -3,7 +3,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 ## Ao no 6-gou
 <div align="center" >
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Ao%20no%206-gou.png" height="400px" width="250px" alt="ao6" ></img>
+    <img src="https://cdn-eu.anidb.net/images/main/58680.jpg" height="400px" width="250px" alt="ao6" ></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
@@ -18,7 +18,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Gundam Hataway
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kaladabrio2020/AProcura/refs/heads/main/img/Gundam%20Hataway.png"  height="400px" width="250px" alt="gundam hataways"></img>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwPshLyUVPlYWjD-SdRUN0Pq-qxZ1LYTDFg&s"  height="400px" width="250px" alt="gundam hataways"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
