@@ -216,6 +216,24 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 
 ---
+## Paprika
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="metropolis"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>8/10</span>
+</div>
+
+<span name='metropolis'>
+
+**Gênero:** Sci-Fi, Thriller, Psicológico
+
+**Sinopse:** No futuro próximo, uma equipe de cientistas desenvolve o "DC Mini", um dispositivo que permite acessar e entrar nos sonhos das pessoas. Quando o aparelho é roubado, sonhos e realidade começam a se misturar perigosamente, e apenas a misteriosa "Paprika" — o alter ego onírico da Dra. Atsuko Chiba — pode impedir o colapso mental coletivo. O filme mergulha em um turbilhão visual e filosófico sobre identidade, subconsciente e os limites da percepção.
+
+**Opnião:** Recomendo. Muito massa. 
+
+</span>
+---
 
 ## Blue Gender
 
