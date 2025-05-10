@@ -60,34 +60,39 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 **Opnião:** Boa sessão da tarde. recomendo.
 
 ## Trava: Fist Planet 
-
-<div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BOGMzMTdmN2QtODVjZC00YzcwLWE2YzItNmE0NTMzMjU4YmQwXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="trava-fp"></img>
-    <br>
-    <span style='font-size:14pt;font-weight:bold'>3/10</span>
-</div>
+<div>
+    <div align="center">
+        <img src="https://m.media-amazon.com/images/M/MV5BOGMzMTdmN2QtODVjZC00YzcwLWE2YzItNmE0NTMzMjU4YmQwXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="trava-fp"></img>
+        <br>
+        <span style='font-size:14pt;font-weight:bold'>3/10</span>
+    </div>
 
 **Gênero:** Mecha, aventura, sci-fi
 
 **Sinopse:** Trava e Shinkai são dois aventureiros espaciais que viajam de planeta em planeta em busca de desafios e dinheiro. Eles acabam participando de um torneio de artes marciais brutal no planeta Fist, onde a força é tudo. O anime mistura ação frenética, comédia nonsense e um estilo visual psicodélico cheio de cortes rápidos e energia crua.
 
 **Opnião:** Esse anime serviu de inspiração para a criação do anime Redline contudo é fezes. Chato......
-
----
-## Dragon’s Heaven
-
-<div align="center">
-    <img src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
-    <br>
-    <span style='font-size:14pt;font-weight:bold'>6/10</span>
 </div>
 
+---
+<div>
+    <h2> Dragon’s Heaven </h2>
+
+    <div align="center">
+        <img src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
+        <br>
+        <span style='font-size:14pt;font-weight:bold'>6/10</span>
+    </div>
+    <span>
 **Gênero:** Mecha, Ficção, Ação
 
 **Sinopsee:** história se passa no ano 3195, depois de uma guerra entre um exército de robôs e os humanos. Acompanhamos aqui Shaian, um robô de combate senciente que perdeu seu piloto em batalha e, desde então, se mantém desligado.
-Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto, reaparece vivo em operações militares no **Império do Brasil** (sim, o Império do Brasil) — ele então reativa seu sistema e convence Ikuuru, uma geniosa garota que entende muito de mecânica, a se tornar seu novo piloto.
+    Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto, reaparece vivo em operações militares **Império do Brasil** (sim, o Império do Brasil) — ele então reativa seu sistema e convence Ikuuru, uma geniosa garota que entende muito de mecânica, a se tornar seu novo piloto.
 
 **Opnião:** Caso tenha 40 min disponiveis do seu dia e não esteja fazendo nada assista. 
+
+    </span>
+</div>
 
 ---
 ## Tailanders
