@@ -198,7 +198,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Metrópolis
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BMTIxNzc3NjQzNF5BMl5BanBnXkFtZTcwNTEwODgyMQ@@._V1_.jpg"  height="400px" width="250px" alt="metropolis"></img>
+    <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/97/28/62/20520705.jpg"  height="400px" width="250px" alt="metropolis"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>5/10</span>
 </div>
@@ -216,6 +216,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 
 ---
+
 ## Blue Gender
 
 
@@ -246,12 +247,6 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ---
 ## Neo Tokyo
 
----
-## 
-
-
-
----
 
 ---
 ## the record of lodoss war
@@ -265,8 +260,6 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ---
 ## The Twelve Kingdoms
 
----
-## Dragon's Heaven
 
 ---
 ## Vampire Hunter: The Animated Series (DarkStalkers)
