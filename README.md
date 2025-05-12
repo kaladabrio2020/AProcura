@@ -249,9 +249,9 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 **Gênero:** Sci-Fi, Thriller, Psicológico, Dark, Ação, Drama
 
 **Sinopse:** Antologia:
-* Magnetic Rose: Dois engenheiros espaciais investigam uma nave abandonada e mergulham em memórias ilusórias criadas por uma diva da ópera falecida.
+* Magnetic Rose: Dois engenheiros espaciais investigam uma nave abandonada e mergulham em memórias ilusórias criadas.
 
-* Stink Bomb: Um cientista acidentalmente se transforma em uma arma biológica ambulante, causando caos enquanto tenta entregar um “remédio” ao governo.
+* Stink Bomb: Um cientista acidentalmente se transforma em uma arma biológica ambulante.
 
 * Cannon Fodder: Em uma cidade distópica onde todos vivem para disparar canhões contra um inimigo nunca visto, a rotina de uma família revela o absurdo da guerra perpétua.
 
