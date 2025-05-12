@@ -235,6 +235,54 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 </span>
 ---
 
+## Memories
+
+<div align="center">
+    <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/97/28/62/20520705.jpg"  height="400px" width="250px" alt="metropolis"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>5/10</span>
+</div>
+
+<span name='metropolis'>
+
+**Gênero:** Ficção Cientifica
+
+**Sinopse:** Em uma cidade futurista onde humanos e robôs convivem em tensão, um investigador e seu sobrinho Kenichi descobrem uma conspiração envolvendo a criação de uma robô humanoide chamada Tima. Projetada para controlar uma superarma e dominar a cidade, Tima desenvolve consciência e questiona seu próprio lugar no mundo. O filme explora temas como desigualdade social, identidade, e os limites entre homem e máquina em meio a uma revolução iminente.
+
+**Opnião:** Fraco. Final com Cliffhanger.
+
+</span>
+
+
+
+---
+## Memories
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="memories"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>9/10</span>
+</div>
+
+<span name='memories'>
+
+
+**Gênero:** Sci-Fi, Thriller, Psicológico, Dark
+
+**Sinopse:** Antologia:
+* Magnetic Rose: Dois engenheiros espaciais investigam uma nave abandonada e mergulham em memórias ilusórias criadas por uma diva da ópera falecida.
+
+* Stink Bomb: Um cientista acidentalmente se transforma em uma arma biológica ambulante, causando caos enquanto tenta entregar um “remédio” ao governo.
+
+* Cannon Fodder: Em uma cidade distópica onde todos vivem para disparar canhões contra um inimigo nunca visto, a rotina de uma família revela o absurdo da guerra perpétua.
+
+
+
+**Opnião:** Execelente. Animação bonitas, histórias criativas com amalgama de copiosos generos.
+
+</span>
+
+---
 ## Blue Gender
 
 
