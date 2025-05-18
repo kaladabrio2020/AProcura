@@ -262,8 +262,24 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 </span>
 
 ---
-## Blue Gender
+## The Record of the Lodoss War
 
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="memories"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>7.5/10</span>
+</div>
+
+<span name='memories'>
+
+
+**Gênero:** Fantasia
+
+**Sinopse:** Na ilha de Lodoss, assolada por guerras entre reinos e forças sombrias, um jovem guerreiro chamado Parn reúne um grupo de heróis para enfrentar o mal que ameaça o equilíbrio do mundo. Ao lado de uma elfa, um mago, um clérigo e outros aliados, ele embarca em uma jornada clássica de honra, magia e batalhas épicas. A série explora temas de heroísmo, sacrifício e os legados de antigas guerras.
+
+**Opnião:** Legal, a lore é interessante, mas não muito desenvolvida. A animação, por outro lado, é lindíssima.
+
+</span>
 
 
 ---
