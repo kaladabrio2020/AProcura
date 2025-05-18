@@ -3,7 +3,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 ## Ao no 6-gou
 <div align="center" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnqKxR8NzwfEIJ7aSAVfZwUxTl3Xsw_sU_Q&s" height="400px" width="250px" alt="ao6" ></img>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnqKxR8NzwfEIJ7aSAVfZwUxTl3Xsw_sU_Q&s" height="400px" width="250px" alt="ao6" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
@@ -22,7 +22,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Gundam Hataway
 
 <div align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwPshLyUVPlYWjD-SdRUN0Pq-qxZ1LYTDFg&s"  height="400px" width="250px" alt="gundam hataways"></img>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwPshLyUVPlYWjD-SdRUN0Pq-qxZ1LYTDFg&s"  height="400px" width="250px" alt="gundam hataways" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
@@ -42,7 +42,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ---
 ## FLCL
 <div align="center">
-    <img src="https://www.animeclick.it/immagini/anime/FLCL/cover/FLCL-cover.jpg"  height="400px" width="250px" alt="flcl"></img>
+    <img src="https://www.animeclick.it/immagini/anime/FLCL/cover/FLCL-cover.jpg"  height="400px" width="250px" alt="flcl" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8/10</span>
 </div>
@@ -61,7 +61,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Bio-hunter
 
 <div align="center" >
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Biohunt.jpg"  height="400px" width="250px" alt="biohunter"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Biohunt.jpg"  height="400px" width="250px" alt="biohunter" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
@@ -81,7 +81,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Trava: Fist Planet 
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BOGMzMTdmN2QtODVjZC00YzcwLWE2YzItNmE0NTMzMjU4YmQwXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="trava-fp"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BOGMzMTdmN2QtODVjZC00YzcwLWE2YzItNmE0NTMzMjU4YmQwXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="trava-fp" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>3/10</span>
 </div>
@@ -100,7 +100,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 ## Dragon’s Heaven
 
 <div align="center">
-    <img src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="dragon-heaven"/></img>
+    <img src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="dragon-heaven" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>6/10</span>
 </div>
@@ -119,7 +119,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Tailanders
 <div align="center">
-    <img src="https://media.fstatic.com/PbNgPxevSpQZ6-A71Ju6JfVFnw4=/322x478/smart/filters:format(webp)/media/movies/covers/2014/08/tailenders_t81342.jpg"  height="400px" width="250px" alt="tailenders"></img>
+    <img src="https://media.fstatic.com/PbNgPxevSpQZ6-A71Ju6JfVFnw4=/322x478/smart/filters:format(webp)/media/movies/covers/2014/08/tailenders_t81342.jpg"  height="400px" width="250px" alt="tailenders" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8.5/10</span>
 </div>
@@ -138,7 +138,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Redline
 <div align="center">
-    <img src="https://media.fstatic.com/gNo7eNnn4Tx8Y578t79fO04N2ik=/322x478/smart/filters:format(webp)/media/movies/covers/2011/04/30ffdbd9585e1a42ded9ba18535e7ed4.jpg"  height="400px" width="250px" alt="redline"></img>
+    <img src="https://media.fstatic.com/gNo7eNnn4Tx8Y578t79fO04N2ik=/322x478/smart/filters:format(webp)/media/movies/covers/2011/04/30ffdbd9585e1a42ded9ba18535e7ed4.jpg"  height="400px" width="250px" alt="redline" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>9/10</span>
 </div>
@@ -156,7 +156,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ---
 ## Ghost in the Shell
 <div align="center">
-    <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gitsoriginal.png"  height="400px" width="250px" alt="ghost1"></img>
+    <img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gitsoriginal.png"  height="400px" width="250px" alt="ghost1" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7/10</span>
 </div>
@@ -176,7 +176,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 ## Steamboy
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BMTIxNzc3NjQzNF5BMl5BanBnXkFtZTcwNTEwODgyMQ@@._V1_.jpg"  height="400px" width="250px" alt="steam"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BMTIxNzc3NjQzNF5BMl5BanBnXkFtZTcwNTEwODgyMQ@@._V1_.jpg"  height="400px" width="250px" alt="steam" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>4/10</span>
 </div>
@@ -198,7 +198,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Metrópolis
 
 <div align="center">
-    <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/97/28/62/20520705.jpg"  height="400px" width="250px" alt="metropolis"></img>
+    <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/97/28/62/20520705.jpg"  height="400px" width="250px" alt="metropolis" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>5/10</span>
 </div>
@@ -219,7 +219,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Paprika
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="metropolis"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="metropolis" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8/10</span>
 </div>
@@ -238,7 +238,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Memories
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="memories"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>9/10</span>
 </div>
@@ -265,7 +265,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## The Record of the Lodoss War
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="memories"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7.5/10</span>
 </div>
