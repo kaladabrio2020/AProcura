@@ -281,7 +281,27 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 </span>
 
+---
 
+## Ninja Scroll
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>8/10</span>
+</div>
+
+<span name='memories'>
+
+
+**Gênero:** Ação, seinen
+
+**Sinopse:** No Japão feudal, o espadachim errante Jubei Kibagami se vê envolvido numa conspiração mortal quando é forçado a enfrentar os Oito Demônios de Kimon — ninjas com poderes sobrenaturais. Ao lado da espiã Kagero, que carrega veneno em seu corpo, ele tenta impedir um plano para derrubar o governo Tokugawa. Em meio a lutas brutais e intrigas sombrias, Jubei busca justiça enquanto enfrenta fantasmas de seu passado.
+
+
+**Opnião:** A animação é linda e a história é boa... Mas o anime é muito pesado — tipo, muito mesmo.
+
+</span>
 ---
 ## Lain
 ---
