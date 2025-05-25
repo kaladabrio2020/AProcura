@@ -286,7 +286,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Ninja Scroll
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BZWQ2MmFjYmMtYjUwYS00MDExLWJjNDAtNDBhODM2NTk4OThiXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8/10</span>
 </div>
