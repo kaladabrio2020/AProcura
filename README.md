@@ -213,9 +213,8 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 </span>
 
-
-
 ---
+
 ## Paprika
 
 <div align="center">
@@ -233,6 +232,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 **Opnião:** Recomendo. Muito massa. 
 
 </span>
+
 ---
 
 ## Memories
@@ -262,6 +262,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 </span>
 
 ---
+
 ## The Record of the Lodoss War
 
 <div align="center">
