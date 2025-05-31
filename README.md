@@ -331,29 +331,17 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## The Big O
 
 ---
-## Memories
-
----
 ## Karas 
 
 ---
 ## Batman: Gotham Knight
 
----
-## Ninja Scroll
 
 ---
 ## Highlander: The Search for Vengeance
 
 ---
 ## Roujin Z
-
----
-## Neo Tokyo
-
-
----
-## the record of lodoss war
 
 ---
 ## Pluto
