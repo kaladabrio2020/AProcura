@@ -265,12 +265,12 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## The Record of the Lodoss War
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  height="400px" width="250px" alt="lodoss-war" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>7.5/10</span>
 </div>
 
-<span name='memories'>
+<span name='lodoss-war'>
 
 
 **Gênero:** Fantasia
@@ -286,12 +286,12 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Ninja Scroll
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BZWQ2MmFjYmMtYjUwYS00MDExLWJjNDAtNDBhODM2NTk4OThiXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="memories" class="imgAnime"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BZWQ2MmFjYmMtYjUwYS00MDExLWJjNDAtNDBhODM2NTk4OThiXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="ninja-scroll" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>8/10</span>
 </div>
 
-<span name='memories'>
+<span name='ninja-scroll'>
 
 
 **Gênero:** Ação, seinen
@@ -302,8 +302,30 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 **Opnião:** A animação é linda e a história é boa... Mas o anime é muito pesado — tipo, muito mesmo.
 
 </span>
+
 ---
-## Lain
+
+## Vampire Hunter D: Bloodlust
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="ninja-scroll" class="hunterD"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>9/10</span>
+</div>
+
+<span name='hunterD'>
+
+
+**Gênero:** Ação, Ficção Cientifica, Dark-fantasy
+
+**Sinopse:** Em um futuro pós-apocalíptico dominado por criaturas sobrenaturais, o caçador meio-vampiro D é contratado para resgatar a filha de um nobre, supostamente sequestrada pelo vampiro Meier Link. Conforme avança em sua missão, D se vê no meio de uma complexa trama de amor proibido, honra e monstros imortais. Entre batalhas intensas e dilemas existenciais, D confronta tanto inimigos quanto sua própria natureza híbrida.
+
+**Opnião:** A animação é excelente, universo incrivel e a história é boa. Uma pena não ter continuação das historias de **D**
+
+</span>
+
+
+
 ---
 ## The Big O
 
