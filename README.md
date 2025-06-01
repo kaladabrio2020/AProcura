@@ -338,7 +338,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 <span name='kite1998'>
 
 
-**Gênero:** Ação
+**Gênero:** Ação, Animação adulta, Crime
 
 **Sinopse:** Após perder os pais, a jovem Sawa é recrutada por um policial corrupto para atuar como assassina de aluguel em uma cidade dominada pelo crime. Controlada e manipulada desde criança, ela começa a questionar sua realidade ao conhecer Oburi, outro assassino na mesma situação. Juntos, eles tentam escapar do ciclo de violência e buscar liberdade em meio a traições e brutalidade.
 
@@ -349,6 +349,26 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 </span>
 
 
+---
+
+## Cyber City Oedo 808
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BZDlmZjg5ZGItMzMzMC00MWM0LWIwYmItNDAzZmQzZDdhODcxXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="CyberCity" class="imgAnime"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>6.5/10</span>
+</div>
+
+<span name='CyberCity'>
+
+
+**Gênero:** Ação, Ficção Cientifica
+
+**Sinopse:** No ano 2808, três criminosos condenados — Sengoku, Goggles e Benten — recebem a chance de reduzir suas penas se aceitarem trabalhar como agentes especiais da polícia de Oedo. Forçados a usar colares explosivos controlados remotamente, eles enfrentam crimes cibernéticos, inteligências artificiais e conspirações tecnológicas. Em um Japão futurista sombrio e hipertecnológico, a linha entre justiça e sobrevivência é tênue.
+
+
+
+</span>
 
 
 ---
