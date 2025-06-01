@@ -178,7 +178,7 @@ Cerca de 1000 anos depois, o seu inimigo, responsável pela morte do seu piloto,
 <div align="center">
     <img src="https://m.media-amazon.com/images/M/MV5BMTIxNzc3NjQzNF5BMl5BanBnXkFtZTcwNTEwODgyMQ@@._V1_.jpg"  height="400px" width="250px" alt="steam" class="imgAnime"></img>
     <br>
-    <span style='font-size:14pt;font-weight:bold'>4/10</span>
+    <span style='font-size:14pt;font-weight:bold'>5/10</span>
 </div>
 
 <span name='steam'>
@@ -209,7 +209,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 **Sinopse:** Em uma cidade futurista onde humanos e robôs convivem em tensão, um investigador e seu sobrinho Kenichi descobrem uma conspiração envolvendo a criação de uma robô humanoide chamada Tima. Projetada para controlar uma superarma e dominar a cidade, Tima desenvolve consciência e questiona seu próprio lugar no mundo. O filme explora temas como desigualdade social, identidade, e os limites entre homem e máquina em meio a uma revolução iminente.
 
-**Opnião:** Fraco. Final com Cliffhanger.
+**Opnião:** Fraco. Final com Cliffhanger. Não desenvolve nenhum dos pesonagem da trama, o velho da jogado no filme.
 
 </span>
 
@@ -278,7 +278,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 **Sinopse:** Na ilha de Lodoss, assolada por guerras entre reinos e forças sombrias, um jovem guerreiro chamado Parn reúne um grupo de heróis para enfrentar o mal que ameaça o equilíbrio do mundo. Ao lado de uma elfa, um mago, um clérigo e outros aliados, ele embarca em uma jornada clássica de honra, magia e batalhas épicas. A série explora temas de heroísmo, sacrifício e os legados de antigas guerras.
 
-**Opnião:** Legal, a lore é interessante, mas não muito desenvolvida. A animação, por outro lado, é lindíssima.
+**Opnião:** Legal, a lore é interessante, mas não muito desenvolvida - me pareceu rushada. A animação, por outro lado, é lindíssima.
 
 </span>
 
@@ -309,7 +309,7 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 ## Vampire Hunter D: Bloodlust
 
 <div align="center">
-    <img src="https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="ninja-scroll" class="hunterD"></img>
+    <img src="https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="hunterD" class="imgAnime"></img>
     <br>
     <span style='font-size:14pt;font-weight:bold'>9/10</span>
 </div>
@@ -317,13 +317,37 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 <span name='hunterD'>
 
 
-**Gênero:** Ação, Ficção Cientifica, Dark-fantasy
+**Gênero:** Ação, Ficção Cientifica, Dark-fantasy, Gótica
 
 **Sinopse:** Em um futuro pós-apocalíptico dominado por criaturas sobrenaturais, o caçador meio-vampiro D é contratado para resgatar a filha de um nobre, supostamente sequestrada pelo vampiro Meier Link. Conforme avança em sua missão, D se vê no meio de uma complexa trama de amor proibido, honra e monstros imortais. Entre batalhas intensas e dilemas existenciais, D confronta tanto inimigos quanto sua própria natureza híbrida.
 
-**Opnião:** A animação é excelente, universo incrivel e a história é boa. Uma pena não ter continuação das historias de **D**
+**Opnião:** A animação é excelente, universo incrivel e a história é boa. Uma pena não ter continuação das historias de **D**. Amalgama de estéticas como góticos, steam-punk, velho oeste enriquece o universo.
 
 </span>
+
+---
+
+## Kite 1998
+
+<div align="center">
+    <img src="https://m.media-amazon.com/images/M/MV5BZTljNjNhZGEtNGI4ZS00NGI5LTk2ZjgtNDg5NDdmNTEzYTNiXkEyXkFqcGc@._V1_.jpg"  height="400px" width="250px" alt="kite1998" class="imgAnime"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>6.5/10</span>
+</div>
+
+<span name='kite1998'>
+
+
+**Gênero:** Ação
+
+**Sinopse:** Após perder os pais, a jovem Sawa é recrutada por um policial corrupto para atuar como assassina de aluguel em uma cidade dominada pelo crime. Controlada e manipulada desde criança, ela começa a questionar sua realidade ao conhecer Oburi, outro assassino na mesma situação. Juntos, eles tentam escapar do ciclo de violência e buscar liberdade em meio a traições e brutalidade.
+
+**Observação :**  a versão original **contém conteúdo explícito e polêmico** (incluindo violência sexual).
+
+**Opnião:** Anime é pesado - muito pesado mesmo. **Recomendo que não assista** apesar de ter virado um "anime cult",mais tão "cult" que anos depois ganhou adaptação "live-action". Tema, história somado com cenas Gore/18+ deixa o anime com gosto amargo e incomoda. Tenho a impressão que esse anime foi feito com o fito somente para chocar as pessoas de sua epoca que, por sua vez, obteve exito.. Esse anime foi censurado na epoca. Se for para assitir **assista o censurado**.
+
+</span>
+
 
 
 
