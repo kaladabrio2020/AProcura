@@ -370,6 +370,22 @@ Você não se importa com ninguém, o prota não tem carisma. O Universo steampu
 
 </span>
 
+---
+## Neon Genesis Evangelion(1995)
+
+<div align="center">
+    <img src="https://br.web.img3.acsta.net/c_310_420/pictures/18/12/07/12/40/4530128.jpg"  height="400px" width="250px" alt="eva1995" class="imgAnime"></img>
+    <br>
+    <span style='font-size:14pt;font-weight:bold'>6.5/10</span>
+</div>
+
+<span name='eva1995'>
+
+**Gênero:** Ação, Ficção Cientifica, Drama, Mecha
+
+**Sinopse:** Em um mundo pós-apocalíptico, uma organização paramilitar chamada NERV é criada para combater monstros chamados Anjos, utilizando seres gigantes chamados Unidades Evangelion (ou EVAs). Estes seres são controlados por adolescentes, recrutados pelo ano em que nasceram, quando ocorreu o Segundo Impacto. Com outros jovens que foram treinados para pilotar os EVAs e com a ajuda dos membros da NERV, eles tentam derrotar os Anjos e evitar o Terceiro Impacto, que levaria a destruição da humanidade.
+
+**Opnião:** Excelente anime de ficção cientifica, um dos melhores animes de mechas já feito. Gnose misturada com um pouco de cabala(na verdade a mesma coisa), Cristianismo e um pouco de conspiração - se amalgamam e cria uma história rica e extremamente interessante. O prota é detestavel mas há justificativa. Recomendo. Contudo, não assista os dois ultimos episódios - não entender poha nenhuma.
 
 ---
 ## The Big O
