@@ -1,7 +1,6 @@
 # Animes Reviews
 Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a real.
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnqKxR8NzwfEIJ7aSAVfZwUxTl3Xsw_sU_Q&s" alt="Ao no 6-gou" />
