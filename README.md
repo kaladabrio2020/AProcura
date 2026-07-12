@@ -261,7 +261,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 
 <div class="anime-card">
-<img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tRAvVDZ-3ZhvzzHYtJU_yw1iLYK4IkJNJ8NEniZGDg" alt="Vampire Hunter D: Bloodlust" />
+<img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsHbeXFbHkpjroynPLAgtOrNbc9SRJ0plA_vYmtlWgw" alt="Vampire Hunter D: Bloodlust" />
 <div class="anime-info">
 
 ## Vampire Hunter D: Bloodlust
@@ -278,7 +278,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 
 <div class="anime-card">
-<img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZTljNjNhZGEtNGI4ZS00NGI5LTk2ZjgtNDg5NDdmNTEzYTNiXkEyXkFqcGc@._V1_.jpg" alt="Kite 1998" />
+<img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaMXtI5EhqeKRO0mgsfHjvk0hsf1F38gSYbKopODWZQ" alt="Kite 1998" />
 <div class="anime-info">
 
 ## Kite (1998)
@@ -297,7 +297,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 
 <div class="anime-card">
-<img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZDlmZjg5ZGItMzMzMC00MWM0LWIwYmItNDAzZmQzZDdhODcxXkEyXkFqcGc@._V1_.jpg" alt="Cyber City Oedo 808" />
+<img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8COlxbYwBGg7c6vpVJQHLMdpxajWIUMmtXNHdg_4lg" alt="Cyber City Oedo 808" />
 <div class="anime-info">
 
 ## Cyber City Oedo 808
