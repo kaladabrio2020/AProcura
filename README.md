@@ -261,7 +261,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 
 <div class="anime-card">
-<img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_.jpg" alt="Vampire Hunter D: Bloodlust" />
+<img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tRAvVDZ-3ZhvzzHYtJU_yw1iLYK4IkJNJ8NEniZGDg" alt="Vampire Hunter D: Bloodlust" />
 <div class="anime-info">
 
 ## Vampire Hunter D: Bloodlust
