@@ -19,7 +19,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwPshLyUVPlYWjD-SdRUN0Pq-qxZ1LYTDFg&s" alt="Gundam Hathaway" />
@@ -37,7 +36,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://www.animeclick.it/immagini/anime/FLCL/cover/FLCL-cover.jpg" alt="FLCL" />
@@ -55,7 +53,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://upload.wikimedia.org/wikipedia/en/9/9a/Biohunt.jpg" alt="Bio-hunter" />
@@ -73,7 +70,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BOGMzMTdmN2QtODVjZC00YzcwLWE2YzItNmE0NTMzMjU4YmQwXkEyXkFqcGc@._V1_.jpg" alt="Trava: Fist Planet" />
@@ -91,7 +87,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://tavernadolugarnenhum.com.br/wp-content/uploads/2024/10/MV5BMDc3MjA5MTEtMDAxMC00YzljLTk1YWMtZDVkZmQyNTkzOTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Dragon's Heaven" />
@@ -109,7 +104,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://media.fstatic.com/PbNgPxevSpQZ6-A71Ju6JfVFnw4=/322x478/smart/filters:format(webp)/media/movies/covers/2014/08/tailenders_t81342.jpg" alt="Tailenders" />
@@ -127,7 +121,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://media.fstatic.com/gNo7eNnn4Tx8Y578t79fO04N2ik=/322x478/smart/filters:format(webp)/media/movies/covers/2011/04/30ffdbd9585e1a42ded9ba18535e7ed4.jpg" alt="Redline" />
@@ -145,7 +138,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gitsoriginal.png" alt="Ghost in the Shell" />
@@ -163,7 +155,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BMTIxNzc3NjQzNF5BMl5BanBnXkFtZTcwNTEwODgyMQ@@._V1_.jpg" alt="Steamboy" />
@@ -181,8 +172,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
-
 <div class="anime-card">
 <img class="anime-cover" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/97/28/62/20520705.jpg" alt="Metrópolis" />
 <div class="anime-info">
@@ -199,7 +188,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Paprika" />
@@ -217,7 +205,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_.jpg" alt="Memories" />
@@ -239,7 +226,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZWIzZGIzNDQtYzM5NS00NTMyLWI5NGItMThkNzE4ZDU4YjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="The Record of the Lodoss War" />
@@ -257,7 +243,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZWQ2MmFjYmMtYjUwYS00MDExLWJjNDAtNDBhODM2NTk4OThiXkEyXkFqcGc@._V1_.jpg" alt="Ninja Scroll" />
@@ -275,7 +260,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_.jpg" alt="Vampire Hunter D: Bloodlust" />
@@ -293,7 +277,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZTljNjNhZGEtNGI4ZS00NGI5LTk2ZjgtNDg5NDdmNTEzYTNiXkEyXkFqcGc@._V1_.jpg" alt="Kite 1998" />
@@ -313,7 +296,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZDlmZjg5ZGItMzMzMC00MWM0LWIwYmItNDAzZmQzZDdhODcxXkEyXkFqcGc@._V1_.jpg" alt="Cyber City Oedo 808" />
@@ -329,7 +311,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 <div class="anime-card">
 <img class="anime-cover" src="https://br.web.img3.acsta.net/c_310_420/pictures/18/12/07/12/40/4530128.jpg" alt="Neon Genesis Evangelion" />
@@ -347,7 +328,6 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 </div>
 </div>
 
----
 
 ## Em breve…
 
