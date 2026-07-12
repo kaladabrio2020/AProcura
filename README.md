@@ -244,7 +244,7 @@ Aqui compartilho o que achei dos animes que já vi — sem enrolação, só a re
 
 
 <div class="anime-card">
-<img class="anime-cover" src="https://m.media-amazon.com/images/M/MV5BZWQ2MmFjYmMtYjUwYS00MDExLWJjNDAtNDBhODM2NTk4OThiXkEyXkFqcGc@._V1_.jpg" alt="Ninja Scroll" />
+<img class="anime-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEoxGnJlEZd-d6UbCOsBwN_lF9iLCya1_k8T75R1oiw" alt="Ninja Scroll" />
 <div class="anime-info">
 
 ## Ninja Scroll
